@@ -1,4 +1,4 @@
-package com.example.eurekaserver;
+package ua.tunepoint.eureka;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
